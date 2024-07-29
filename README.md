@@ -40,13 +40,10 @@ To run this project, you need the following libraries and tools installed:
 - imblearn (imbalanced-learn)
 - tqdm
 
-You can install these dependencies using `pip`:
-```sh
-# Diabetic Retinopathy CNN
-
-## Dependencies
-
-You can install the required dependencies using `pip`:
-
-```sh
+You can install these dependencies using `pip`:```sh
 pip install tensorflow keras opencv-python matplotlib numpy pandas pathlib glob pillow imbalanced-learn tqdm
+Usage
+
+##Clone the repository:```sh
+git clone https://github.com/your-repo/diabetic-retinopathy-cnn.git
+
