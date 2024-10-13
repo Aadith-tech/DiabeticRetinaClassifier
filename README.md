@@ -47,5 +47,5 @@ Usage
 ```
 ## Clone the repository:
 ```sh
-git clone https://github.com/your-repo/diabetic-retinopathy-cnn.git
+https://github.com/Aadith-tech/DiabeticRetinaClassifier.git
 ```
